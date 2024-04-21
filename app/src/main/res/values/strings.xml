@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImageLoading</string>
+    <string name="please_check_your_network_connection">Please Check Your Network Connection</string>
+    <string name="try_again">Try Again</string>
 </resources>
